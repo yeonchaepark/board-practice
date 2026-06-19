@@ -2,6 +2,7 @@
 // [A계정, Conflict/A 브랜치에서 추가]
 
 public class Board {
+    // [A계정이 add]
     private int    id;
     private String title;
     private String author;
