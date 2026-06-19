@@ -1,4 +1,6 @@
+// [B계정,Conflict/B 브랜치에서 추가함]
 // [A계정, Conflict/A 브랜치에서 추가]
+
 public class Board {
     private int    id;
     private String title;
