@@ -1,3 +1,4 @@
+// [A 계정이 수정함]
 public class BoardValidator {
     public static void validate(Board board) {
         if (board.getTitle() == null || board.getTitle().isEmpty())
