@@ -6,6 +6,7 @@ public class Board {
     private String title;
     private String author;
     // getter/setter 생략
+   // [B 계정이 add]
 }
     // feature/A: 조회수 기능 추가
     private int viewCount = 0;
